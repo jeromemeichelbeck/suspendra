@@ -1,0 +1,19 @@
+{
+  "name": "suspendra",
+  "version": "0.0.1",
+  "description": "A package to make async iterations easy",
+  "keywords": ["async", "promise", "iterator", "generator", "timeout"],
+  "homepage": "https://github.com/jeromemeichelbeck/suspendra",
+  "bugs": {
+    "url": "https://github.com/jeromemeichelbeck/suspendra/issues"
+  },
+  "author": "Jérôme Meichelbeck <jerome@meichelbeck.io>",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jeromemeichelbeck/suspendra.git"
+  },
+  "files": ["dist"],
+  "type": "module",
+  "main": "dist/index.js",
+  "license": "MIT"
+}
