@@ -1,0 +1,5 @@
+---
+'suspendra': patch
+---
+
+Initial release
